@@ -1,0 +1,16 @@
+{
+  "timezone": "Asia/Singapore",
+  "operationHour": {
+    "startTime": 9,
+    "endTime": 18
+  },
+  "eachSlotDuration": 30,
+  "eachAppointmentMaxSlotSpan": 5,
+  "blockedDates": ["2024-06-07T16:00:00"],
+  "blockedTimes": [
+    {
+      "startTime": 12,
+      "endTime": 13
+    }
+  ]
+}
